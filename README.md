@@ -4,7 +4,7 @@
 
 1. Hasan Mahmud || Dhaka, Bangladesh
 2. Ziyed Hasan || Shahjahanpur, Dhaka
-3. Name || Zone 
+3. Mubashshir Misbah || Mirzapur; Dinajpur, Bangladesh
 
 
 ## Git Flow
