@@ -12,6 +12,7 @@
 8. AKM Ataul Ghani || Dhaka, Bangladesh
 9. Zakia Nasrin || Stockholm, Sweden
 10. Md. Iftekhar Alam || Dhaka, Bangladesh   
+11. Abdul Muqit || gomastapur, chapai-nobabjong. 
 
 
 ## Git Flow
