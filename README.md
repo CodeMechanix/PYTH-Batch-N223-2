@@ -14,7 +14,9 @@
 10. Md. Iftekhar Alam || Dhaka, Bangladesh   
 11. Abdul Muqit || gomastapur, chapai-nobabjong. 
 12. Ibrahim Khalil || Chandpur, Bangladesh.
-13. 𝕾𝕳 𝕾𝖎𝖋𝖆𝖙 || 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍
+14. 𝕾𝕳 𝕾𝖎𝖋𝖆𝖙 || 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍
+13. Abdullah Al Mahmud || Keraniganj, Dhaka.
+
 
 ## Git Flow
 0. [Git Repository] https://github.com/CodeMechanix/PYTH-Batch-N223-2
