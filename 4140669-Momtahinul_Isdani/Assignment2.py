@@ -5,7 +5,9 @@ and that argument will be multiplied with an unknown given number.
 
 
 def get_multiplication(number):
-    return number * 4
+    num2 = int(input("Enter an Integer Number: "))
+    multiplication = lambda num: num * num2
+    return multiplication(number)
 
 
 num1 = int(input("Enter an Integer Number: "))
