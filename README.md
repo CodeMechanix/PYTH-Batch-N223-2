@@ -17,6 +17,7 @@
 14. 𝕾𝕳 𝕾𝖎𝖋𝖆𝖙 || 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍
 13. Abdullah Al Mahmud || Keraniganj, Dhaka.
 14. Dewan Mahmudur Rahman || Dhaka
+15. Fabia Syara || Dhaka 
 
 ## Git Flow
 0. [Git Repository] https://github.com/CodeMechanix/PYTH-Batch-N223-2
