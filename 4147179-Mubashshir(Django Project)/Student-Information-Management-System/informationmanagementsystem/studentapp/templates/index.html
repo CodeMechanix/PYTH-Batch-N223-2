@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Add Information</title>
+</head>
+<body>
+<div style="background-image: url('win8wallpaper_large_verge_medium_landscape.jpg') ;"></div>
+<form method="POST"  action="add-student">
+{% csrf_token %}
+    <div>
+
+        <div>
+            <label> Enter Student Details</label>
+        </div>
+        <div>
+            <label>Student ID</label>
+            <div>
+                {{form.std_id}}
+            </div>
+        </div>
+
+        <div>
+            <label>Student Name</label>
+            <div>
+                {{form.std_name}}
+            </div>
+        </div>
+
+        <div>
+            <label>Student Email</label>
+            <div>
+                {{form.std_email}}
+            </div>
+        </div>
+
+        <div>
+            <label>Student Contact Number</label>
+            <div>
+                {{form.std_contact_number}}
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <button type="submit">Submit</button>
+            </div>
+        </div>
+    </div>
+
+
+</form>
+</body>
+</html>
